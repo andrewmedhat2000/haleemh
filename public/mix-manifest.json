@@ -1,0 +1,6 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/firebase.js": "/js/firebase.js",
+    "/js/firebase-messaging-sw.js": "/js/firebase-messaging-sw.js",
+    "/css/app.css": "/css/app.css"
+}
